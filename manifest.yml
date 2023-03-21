@@ -1,0 +1,9 @@
+---
+name: Quest GNOME Desktop
+icon: fa://desktop
+category: Interactive Apps
+subcategory: Desktops
+role: batch_connect
+description: |
+  This app will launch an interactive desktop on the [Quest High-Performance Computing] cluster. You can launch GUI applications once your desktop is ready.
+  [Quest High-Performance Computing]: https://www.it.northwestern.edu/departments/it-services-support/research/computing/quest/index.html
